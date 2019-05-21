@@ -1,5 +1,5 @@
-# proxy-api
-### [Demo](https://glog1.github.io/proxy-api/)
+# unsplash gallery
+### [Demo](https://belook.github.io/)
 ## Project setup
 ```
 npm install
